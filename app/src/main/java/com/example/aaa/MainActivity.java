@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        android.util.Log.i(TAG, "onCreate: 111qq请求");
+        android.util.Log.i(TAG, "onCreate: 111qq请求去");
     }
 }
